@@ -13,6 +13,7 @@
 		B5F7B55A24566D4000E1FFBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5F7B55824566D4000E1FFBE /* Main.storyboard */; };
 		B5F7B55C24566D4200E1FFBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5F7B55B24566D4200E1FFBE /* Assets.xcassets */; };
 		B5F7B55F24566D4200E1FFBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5F7B55D24566D4200E1FFBE /* LaunchScreen.storyboard */; };
+		B5F7B56724566DC900E1FFBE /* CircleProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F7B56624566DC900E1FFBE /* CircleProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B5F7B55B24566D4200E1FFBE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5F7B55E24566D4200E1FFBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5F7B56024566D4200E1FFBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5F7B56624566DC900E1FFBE /* CircleProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B5F7B55424566D4000E1FFBE /* SceneDelegate.swift */,
 				B5F7B55624566D4000E1FFBE /* ViewController.swift */,
 				B5F7B55824566D4000E1FFBE /* Main.storyboard */,
+				B5F7B56624566DC900E1FFBE /* CircleProgressView.swift */,
 				B5F7B55B24566D4200E1FFBE /* Assets.xcassets */,
 				B5F7B55D24566D4200E1FFBE /* LaunchScreen.storyboard */,
 				B5F7B56024566D4200E1FFBE /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5F7B55724566D4000E1FFBE /* ViewController.swift in Sources */,
+				B5F7B56724566DC900E1FFBE /* CircleProgressView.swift in Sources */,
 				B5F7B55324566D4000E1FFBE /* AppDelegate.swift in Sources */,
 				B5F7B55524566D4000E1FFBE /* SceneDelegate.swift in Sources */,
 			);
